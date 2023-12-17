@@ -27,14 +27,3 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 
 1. Bu depoyu bilgisayarınıza klonlayın veya ZIP olarak indirin.
 2. İndirdiğiniz dizine gidin ve `index.html` dosyasını tarayıcınızda açın.
-
-## Katkılar
-
-Bu projeye katkıda bulunmak isterseniz, lütfen [Katkıda Bulunma Kılavuzu](CONTRIBUTING.md) ve [Kod Davranışı Kılavuzu](CODE_OF_CONDUCT.md) kurallarına uyun. Projeye katkı sağlamadan önce bir konu (issue) açarak veya bir çekme isteği (pull request) göndererek iletişime geçebilirsiniz.
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına başvurun.
-
----
-
